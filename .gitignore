@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# production build
+/dist
+
+# Vercel, Netlify, etc.
+.vercel/
+.netlify/
+
+# local env files
+.env
+.env.*.local
+
+# system files
+.DS_Store
+Thumbs.db
