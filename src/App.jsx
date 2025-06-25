@@ -30,6 +30,7 @@ const AppInner = () => {
 
   return (
     <div className="relative w-screen min-h-screen text-white overflow-x-hidden">
+
       {/* Background Video */}
       <video
         autoPlay
